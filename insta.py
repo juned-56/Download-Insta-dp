@@ -1,3 +1,4 @@
+#pip install instaloader
 import instaloader
 ig = instaloader.Instaloader()
 dp = input("Enter the user name")
